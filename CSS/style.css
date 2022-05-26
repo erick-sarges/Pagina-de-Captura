@@ -68,3 +68,30 @@ select{
     background-position: calc(100% - 10px) center;
       
 }
+
+footer{
+     background-color: #202121;
+     padding: 40px;
+     text-align: center;
+     
+}
+
+ .picture{
+     height: 160px;
+     transform: translateY(-30px);
+
+ }
+
+ 
+
+ .description{
+     color: #ffffff;
+     max-width: 40%;
+     display: inline-block;
+     margin-left: 40px;
+     text-align: left;
+
+ }
+ .description p, .description h3{
+     margin-bottom: 20px;
+ }
